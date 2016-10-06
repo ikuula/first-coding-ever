@@ -1,0 +1,53 @@
+img {
+    display: block;
+    margin: auto;
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+  color: #414D41;
+  font-size: 45px;
+  font-family: "avenir next";
+  }
+
+body {
+    background-color: #95B3A3;
+}
+
+p {
+  color: #DDD9CE;
+  font-family: "avenir next";
+  font-size: 16px;
+  margin: auto;
+  width: 400px;
+  border: 1px solid #CDC6A8;
+  padding: 100px; 
+}
+
+ol {
+  font-family: "avenir next";
+  color: #5D8E8E;
+  font-size: 24px;
+  font-weight: bold;
+  margin: auto;
+  width: 400px;
+  border: 1px solid #CDC6A8;
+  padding: 100px; 
+}
+
+dd {
+  font-family: "avenir next";
+  font-size: 16px;
+  font-weight: normal;
+  color: #DDD9CE;
+  margin: auto;
+  width: 400px; 
+}
+
+img.IsaacImage {
+  margin: auto;
+  width: 400px;
+  border: 1px solid #CDC6A8;
+  padding: 100px; 
+}

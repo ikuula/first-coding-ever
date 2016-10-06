@@ -1,0 +1,53 @@
+p.intro {
+    color: antiquewhite;
+    border: 2px solid antiquewhite;
+}
+
+h1 {
+  color: #791233;
+}
+
+p {
+  color: white;
+}
+
+img {
+    display: block;
+    margin: auto;
+  width: 200px;
+}
+
+img.galleryImage {
+  width: 300px;
+}
+
+h1 {
+  font-size:50px;
+  font-family: "avenir next";
+}
+
+body {
+    background-color: #068;
+}
+
+p {
+    font-family: "avenir next";
+}
+
+p {
+  margin: auto;
+  width: 50%;
+  border: 3px dotted white;
+  padding: 100px; 
+}
+
+img {
+  margin: auto;
+  width: 50%;
+  border: 3px solid antiquewhite;
+  padding: 50px; 
+}
+
+h1 {
+  text-align: center;
+}
