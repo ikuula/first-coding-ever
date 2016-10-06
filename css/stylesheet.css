@@ -51,3 +51,8 @@ img.IsaacImage {
   border: 1px solid #CDC6A8;
   padding: 100px; 
 }
+
+.main-header {
+background: white;
+    padding: 1em 0;
+}
